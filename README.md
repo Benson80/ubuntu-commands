@@ -160,3 +160,6 @@
 | `strace -p PID`       | 跟踪系统调用           |
 | `nc -zv 127.0.0.1 80` | 测试端口连通性         |
 | `time 命令`           | 测试命令耗时           |
+
+bash <(curl -fsSL https://benson80.eu.org/scripts/ubuntu-commands.sh)
+![image](https://github.com/user-attachments/assets/4a101d29-d48e-4d50-9406-48fb6b9daf26)
